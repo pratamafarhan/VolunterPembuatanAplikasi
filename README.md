@@ -9,3 +9,4 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Berikut daftar Volunter yang diterima:
 
 * Pratama Farhan, (https://github.com/pratamafarhan).
+* Muhammad Farhan Pratama, (https://www.linkedin.com/in/farhan-pratama-275299194/.
